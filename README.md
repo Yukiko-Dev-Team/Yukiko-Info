@@ -8,7 +8,7 @@ If you want to  use the open-source version [Asthriona](https://github.com/Asthr
 You can find the open sources version on [Asthriona's profile](https://github.com/Asthriona/Yukiko) with all the info you need to install it.  
 
 ## Add Yukiko to your server:
-Please, Login on [Yukiko's dashboard](https://yukiko.nishikino.me/) and click on Server then you can add yukiko to any of your server.  
+Please, Login on [Yukiko's dashboard](https://yukiko.app/) and click on Server then you can add yukiko to any of your server.  
 Keep in mind Yukiko and her website is still in early developement.
 
 ## Help us:

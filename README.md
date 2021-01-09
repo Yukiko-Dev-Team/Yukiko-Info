@@ -16,7 +16,7 @@ If you want to support our, feel free to make a donation via Ko-fi.
 Any donation is for Yukiko Directly. (for the server bills, and domains).  
 
 ## Help us with code: 
-You can surely help us with code by taking a look at it on [the open-source](https://github.com/Asthriona) version, if you PR an interesting function we may contact you to add it to this version aswel.
+You can surely help us with code by taking a look at it on [the open-source](https://github.com/Asthriona/Yukiko) version, if you PR an interesting function we may contact you to add it to this version aswel.
 
 # Yukiko Dev Team
 [Asthriona](https://github.com/Asthriona)  

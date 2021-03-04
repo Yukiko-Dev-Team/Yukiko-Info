@@ -21,3 +21,6 @@ You can surely help us with code by taking a look at it on [the open-source](htt
 # Yukiko Dev Team
 [Asthriona](https://github.com/Asthriona)  
 [Rise](https://github.com/Heazher)
+
+# Patreon:
+![](https://asthriona.s3.fr-par.scw.cloud/ShareX/2021/03/SSeUEIvR_400x400_2_.jpg) Nems0s

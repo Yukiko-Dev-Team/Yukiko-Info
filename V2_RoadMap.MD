@@ -20,6 +20,7 @@ Remember: Yukiko is not our main priority, The Yukiko Dev Team is working on Yuk
 - [ ] Add RAID lockdown
 - [ ] Add custom commands
 - [ ] Add Shards to Ping command
+- [ ] Add mute command (removed after 1.9 due to bugs)
 
 ## Bot Fixes
 - [ ] Fix `a!queue` commands (for very long playlist)

@@ -148,6 +148,11 @@
 + Fix an issue with Ping monitoring
 + Fix an issue with ban/kick logging 
 
-## Version 2.0.7
-+ Player count (Voice Services)
+## Version 2.0.70 ([Canary](https://yukiko.app/release))
++ Add Player count (Monitoring Voice Services)
 + Add color rank cards
++ Re-enable presence on guild info
+
+## Version 2.0.71
++ Update `a!serverinfo` to `a!guild`
++ Update `a!serverinfo` is now an alias for `a!guild`

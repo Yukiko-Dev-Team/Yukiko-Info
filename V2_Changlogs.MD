@@ -156,3 +156,6 @@
 ## Version 2.0.71
 + Update `a!serverinfo` to `a!guild`
 + Update `a!serverinfo` is now an alias for `a!guild`
+
+# Known bug: 
++ Player break when adding playlist or song.

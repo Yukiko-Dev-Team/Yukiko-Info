@@ -24,6 +24,7 @@ Remember: Yukiko is not our main priority, The Yukiko Dev Team is working on Yuk
 
 ## Bot Fixes
 - [ ] Fix `a!queue` commands (for very long playlist)
+- [ ] Fix Player break when adding songs or playlist
 
 ## Website Addition
 

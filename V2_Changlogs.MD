@@ -1,4 +1,4 @@
-# Yukiko V2
+# Yukiko Version 2
 ## Version 2.0.0
 + Complete rewrite
 + Add YukikoClient (Internal)
@@ -153,9 +153,13 @@
 + Add color rank cards
 + Re-enable presence on guild info
 
-## Version 2.0.71
+## Version 2.0.71 ([InDev](https://yukiko.app/release))
 + Update `a!serverinfo` to `a!guild`
 + Update `a!serverinfo` is now an alias for `a!guild`
++ Update `a!queue` commands
++ Add Yukiko Dev Team's playlist to `a!play` command (`a!play devteam`)
++ Fix `a!queue` commands reply is too long
++ Remove Datadog voice channel count
 
 # Known bug: 
 + Player break when adding playlist or song.

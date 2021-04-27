@@ -138,7 +138,7 @@
 + Add Sharding Support
 + Add Docker support
 
-## Version 2.0.69
+## Version 2.0.69 (Production)
 + Add better error handling for debug 
 + Add Channel info commands
 + Add Shards commands (Owner commands)
@@ -148,17 +148,19 @@
 + Fix an issue with Ping monitoring
 + Fix an issue with ban/kick logging 
 
-## Version 2.0.70 ([Canary](https://yukiko.app/release))
+## Version 2.0.70 
 + Add Player count (Monitoring Voice Services)
 + Add color rank cards
 + Re-enable presence on guild info
 
-## Version 2.0.71 ([InDev](https://yukiko.app/release))
+## Version 2.0.71 ([Canary](https://yukiko.app/release))
 + Update `a!serverinfo` to `a!guild`
 + Update `a!serverinfo` is now an alias for `a!guild`
 + Update `a!queue` commands
 + Add Yukiko Dev Team's playlist to `a!play` command (`a!play devteam`)
++ Add Last played song in `a!queue`
 + Fix `a!queue` commands reply is too long
++ Fix Player break when add music to queue
 + Remove Datadog voice channel count
 
 # Known bug: 

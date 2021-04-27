@@ -162,4 +162,4 @@
 + Remove Datadog voice channel count
 
 # Known bug: 
-+ Player break when adding playlist or song.
++ ~~Player break when adding playlist or song.~~

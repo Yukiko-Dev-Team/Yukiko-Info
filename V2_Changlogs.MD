@@ -138,7 +138,7 @@
 + Add Sharding Support
 + Add Docker support
 
-## Version 2.0.69 (Production)
+## Version 2.0.69
 + Add better error handling for debug 
 + Add Channel info commands
 + Add Shards commands (Owner commands)
@@ -148,7 +148,7 @@
 + Fix an issue with Ping monitoring
 + Fix an issue with ban/kick logging 
 
-## Version 2.0.70 
+## Version 2.0.70 (Production)
 + Add Player count (Monitoring Voice Services)
 + Add color rank cards
 + Re-enable presence on guild info
@@ -162,6 +162,9 @@
 + Fix `a!queue` commands reply is too long
 + Fix Player break when add music to queue
 + Remove Datadog voice channel count
+
+## Version 2.0.72
++ Update Error logging (Internal)
 
 # Known bug: 
 + ~~Player break when adding playlist or song.~~

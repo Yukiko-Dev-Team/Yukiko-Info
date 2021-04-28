@@ -163,7 +163,7 @@
 + Fix Player break when add music to queue
 + Remove Datadog voice channel count
 
-## Version 2.0.72
+## Version 2.0.72 (In Dev)
 + Update Error logging (Internal)
 
 # Known bug: 

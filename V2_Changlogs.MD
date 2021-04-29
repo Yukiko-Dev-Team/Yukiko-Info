@@ -165,6 +165,9 @@
 
 ## Version 2.0.72 (In Dev)
 + Update Error logging (Internal)
++ Add Early Support Slash commands
++ Add /rank command (No card)
++ Add /ping command
 
 # Known bug: 
 + ~~Player break when adding playlist or song.~~

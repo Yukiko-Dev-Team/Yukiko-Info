@@ -21,6 +21,7 @@ Remember: Yukiko is not our main priority, The Yukiko Dev Team is working on Yuk
 - [ ] Add custom commands
 - [ ] Add Shards to Ping command
 - [ ] Add mute command (removed after 1.9 due to bugs)
+- [ ] Support Slash commands
 
 ## Bot Fixes
 - [x] Fix `a!queue` commands (for very long playlist) (Canary)

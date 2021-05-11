@@ -169,5 +169,10 @@
 + Add /rank command (No card)
 + Add /ping command
 
+# Version 2.1.0
++ Add Playlist Shuffle
++ Add Default Rank
++ Update Channel selection (Now search for logs/HOF/Welcome channel via ID)
+
 # Known bug: 
 + ~~Player break when adding playlist or song.~~

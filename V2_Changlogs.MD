@@ -152,6 +152,7 @@
 + Add Player count (Monitoring Voice Services)
 + Add color rank cards
 + Re-enable presence on guild info
++ Fix Shard crash on player queue end
 
 ## Version 2.0.71 ([Canary](https://yukiko.app/release))
 + Update `a!serverinfo` to `a!guild`
@@ -163,13 +164,13 @@
 + Fix Player break when add music to queue
 + Remove Datadog voice channel count
 
-## Version 2.0.72 (In Dev)
+## Version 2.0.72 
 + Update Error logging (Internal)
 + Add Early Support Slash commands
 + Add /rank command (No card)
 + Add /ping command
 
-# Version 2.1.0
+# Version 2.1.0 (In Dev)
 + Add Playlist Shuffle
 + Add Default Rank
 + Update Channel selection (Now search for logs/HOF/Welcome channel via ID)

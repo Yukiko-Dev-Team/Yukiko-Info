@@ -13,13 +13,13 @@ Remember: Yukiko is not our main priority, The Yukiko Dev Team is working on Yuk
 - [ ] Add YouTube Notification
 - [ ] Add Twitch Notification
 - [ ] Add Playlist save (Voice services)
-- [ ] Add Shuffle (Voice Services)
+- [x] Add Shuffle (Voice Services)
 - [ ] Add custom prefix
 - [ ] Add URL detector
 - [ ] Add Ninja invite detector
 - [ ] Add RAID lockdown
 - [ ] Add custom commands
-- [ ] Add Shards to Ping command
+- [x] Add Shards to Ping command
 - [ ] Add mute command (removed after 1.9 due to bugs)
 
 ## Bot Fixes

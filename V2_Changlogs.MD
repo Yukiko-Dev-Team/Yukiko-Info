@@ -173,6 +173,7 @@
 + Add Playlist Shuffle
 + Add Default Rank
 + Update Channel selection (Now search for logs/HOF/Welcome channel via ID)
++ Update Ping command (argument shards to see all the shards per servers.)
 
 # Known bug: 
 + ~~Player break when adding playlist or song.~~

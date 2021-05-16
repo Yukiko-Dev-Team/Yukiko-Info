@@ -148,13 +148,13 @@
 + Fix an issue with Ping monitoring
 + Fix an issue with ban/kick logging 
 
-## Version 2.0.70 (Production)
+## Version 2.0.70 
 + Add Player count (Monitoring Voice Services)
 + Add color rank cards
 + Re-enable presence on guild info
 + Fix Shard crash on player queue end
 
-## Version 2.0.71 ([Canary](https://yukiko.app/release))
+## Version 2.0.71 (Production)
 + Update `a!serverinfo` to `a!guild`
 + Update `a!serverinfo` is now an alias for `a!guild`
 + Update `a!queue` commands
@@ -164,7 +164,7 @@
 + Fix Player break when add music to queue
 + Remove Datadog voice channel count
 
-## Version 2.0.72 
+## Version 2.0.72 ([Canary](https://yukiko.app/release))
 + Update Error logging (Internal)
 + Add Early Support Slash commands
 + Add /rank command (No card)

@@ -28,4 +28,23 @@ Remember: Yukiko is not our main priority, The Yukiko Dev Team is working on Yuk
 
 ## Website Addition
 
-- [ ] Waiting for 2.1 to release the roadmap
+## 2.0.1
+- [x] Create Project
+- [x] Add router
+- [x] Add Login
+- [x] Add Guild View
+- [x] Add Guild Dashboard
+- [x] Add Utility component
+- [x] Add Roles Component
+- [x] Add Channel Component
+- [x] Link all guilds component to Guild Dashboard
+- [x] Add verified guilds badge
+- [x] Add Dev Guilds badge
+- [x] Add user profile
+- [ ] Add "Delete all my data" to profile
+- [x] Add Card uploading to user profile
+- [x] Protect Guilds access
+- [ ] Add Status API
+- [x] Add Shards Socket to Status
+- [ ] Add MPS metrics to Status (?)
+- [ ] Add Ping Metrics to Status Page

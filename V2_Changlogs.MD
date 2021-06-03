@@ -164,13 +164,13 @@
 + Fix Player break when add music to queue
 + Remove Datadog voice channel count
 
-## Version 2.0.72 ([Canary](https://yukiko.app/release))
+## Version 2.0.72 
 + Update Error logging (Internal)
 + Add Early Support Slash commands
 + Add /rank command (No card)
 + Add /ping command
 
-# Version 2.1.0 (In Dev)
+# Version 2.1.0 ([Canary](https://yukiko.app/release))
 + Add Playlist Shuffle
 + Add Default Rank
 + Update Channel selection (Now search for logs/HOF/Welcome channel via ID)

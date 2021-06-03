@@ -176,5 +176,10 @@
 + Update Channel selection (Now search for logs/HOF/Welcome channel via ID)
 + Update Ping command (argument shards to see all the shards per servers.)
 
+# Version 2.1.1 (In Dev)
++ Update Yukiko Client: Add Partials (Internal)
++ Update Osu Errors messages
++ Add messageReactionAdd event support (Internal)
+
 # Known bug: 
 + ~~Player break when adding playlist or song.~~

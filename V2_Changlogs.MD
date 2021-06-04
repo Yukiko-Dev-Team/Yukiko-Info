@@ -180,6 +180,7 @@
 + Update Yukiko Client: Add Partials (Internal)
 + Update Osu Errors messages
 + Add messageReactionAdd event support (Internal)
++ Add Role Reaction (Early tests)
 
 # Known bug: 
 + ~~Player break when adding playlist or song.~~

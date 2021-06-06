@@ -183,6 +183,7 @@
 + Add Role Reaction (Early tests, Prototype)
 + Add Birthday command (Prototype)
 + Update Help command: Bold Yukiko Dev Team Link, Remove Support server link.
++ Removed Slash commands
 
 # Known bug: 
 + ~~Player break when adding playlist or song.~~

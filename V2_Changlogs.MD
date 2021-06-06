@@ -180,7 +180,9 @@
 + Update Yukiko Client: Add Partials (Internal)
 + Update Osu Errors messages
 + Add messageReactionAdd event support (Internal)
-+ Add Role Reaction (Early tests)
++ Add Role Reaction (Early tests, Prototype)
++ Add Birthday command (Prototype)
++ Update Help command: Bold Yukiko Dev Team Link, Remove Support server link.
 
 # Known bug: 
 + ~~Player break when adding playlist or song.~~

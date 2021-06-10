@@ -177,11 +177,12 @@
 + Update Ping command (argument shards to see all the shards per servers.)
 
 # Version 2.1.1 (In Dev)
-+ Update Yukiko Client: Add Partials (Internal)
-+ Update Osu Errors messages
++ Add Shard ID to ping command.
 + Add messageReactionAdd event support (Internal)
 + Add Role Reaction (Early tests, Prototype)
 + Add Birthday command (Prototype)
++ Update Yukiko Client: Add Partials support (Internal)
++ Update Osu Errors messages
 + Update Help command: Bold Yukiko Dev Team Link, Remove Support server link.
 + Removed Slash commands
 

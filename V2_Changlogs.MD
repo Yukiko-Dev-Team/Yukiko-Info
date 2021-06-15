@@ -170,13 +170,13 @@
 + Add /rank command (No card)
 + Add /ping command
 
-# Version 2.1.0 ([Canary](https://yukiko.app/release))
+# Version 2.1.0 
 + Add Playlist Shuffle
 + Add Default Rank
 + Update Channel selection (Now search for logs/HOF/Welcome channel via ID)
 + Update Ping command (argument shards to see all the shards per servers.)
 
-# Version 2.1.1 (In Dev)
+# Version 2.1.1 ([Canary](https://yukiko.app/release))
 + Add Shard ID to ping command.
 + Add messageReactionAdd event support (Internal)
 + Add Role Reaction (Early tests, Prototype)
@@ -185,6 +185,14 @@
 + Update Osu Errors messages
 + Update Help command: Bold Yukiko Dev Team Link, Remove Support server link.
 + Removed Slash commands
+
+# Version 2.1.2 (In Dev)
++ Update: Event Handler
++ Update: YukikoClient
++ Delete: Event Disconnecting
++ Delete: Event Reconnecting
++ Add: Event ShardDisconnect
++ Add: Event ShardReconnecting
 
 # Known bug: 
 + ~~Player break when adding playlist or song.~~

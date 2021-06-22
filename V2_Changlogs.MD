@@ -174,7 +174,19 @@
 + Add Playlist Shuffle
 + Add Default Rank
 + Update Channel selection (Now search for logs/HOF/Welcome channel via ID)
-+ Update Ping command (argument shards to see all the shards per servers.)
++ Update Ping command (argument shards to see all the shards per servers.)  
+***AFTER DEPLOY UPDATES***  
++ Add: Discord.bots.gg API updates
++ Add: Canary as YukikoClient status possibility.
++ Update: Presence
++ Update: a!commands now have a DEPRECATION NOTICE.
++ Fix: Error with Asthriona API (Internal)
++ Fix: Error with Ready event (Internal)
++ Fix: error with Datadog
++ fix: Error with a!channel commands.
++ Fix: Error with db.gg API
++ Fix: Yukiko's update timing (Rate Limite)
+
 
 # Version 2.1.1 ([Canary](https://yukiko.app/release))
 + Add Shard ID to ping command.
@@ -189,6 +201,7 @@
 # Version 2.1.2 (In Dev)
 + Update: Event Handler
 + Update: YukikoClient
++ Update: Error Handling
 + Delete: Event Disconnecting
 + Delete: Event Reconnecting
 + Add: Event ShardDisconnect

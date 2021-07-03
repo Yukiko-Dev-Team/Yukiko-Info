@@ -170,7 +170,7 @@
 + Add /rank command (No card)
 + Add /ping command
 
-# Version 2.1.0 
+# Version 2.1.0 ([Production](https://yukiko.app/release))
 + Add Playlist Shuffle
 + Add Default Rank
 + Update Channel selection (Now search for logs/HOF/Welcome channel via ID)

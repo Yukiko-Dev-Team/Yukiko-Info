@@ -42,10 +42,10 @@ Remember: Yukiko is not our main priority, The Yukiko Dev Team is working on Yuk
 - [x] Add verified guilds badge
 - [x] Add Dev Guilds badge
 - [x] Add user profile
-- [ ] Add "Delete all my data" to profile
+- [x] Add "Delete all my data" to profile
 - [x] Add Card uploading to user profile
 - [x] Protect Guilds access
-- [ ] Add Status API
+- [x] Add Status API
 - [x] Add Shards Socket to Status
-- [ ] Add MPS metrics to Status (?)
-- [ ] Add Ping Metrics to Status Page
+- [x] Add MPS metrics to Status (?)
+- [x] Add Ping Metrics to Status Page

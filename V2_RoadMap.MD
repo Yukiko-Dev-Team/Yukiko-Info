@@ -6,6 +6,7 @@ Remember: Yukiko is not our main priority, The Yukiko Dev Team is working on Yuk
 
 - [ ] Add default role (selected via Website)
 - [ ] Add Role selector via reaction
+- [ ] Add Economy system / Give money to user
 - [ ] Add Slash commands (Waiting on Djs for now)
 - [ ] Add Poll commands (With message fetch incase of reboot)
 - [ ] Add Leaderboard (leveling per server and general)

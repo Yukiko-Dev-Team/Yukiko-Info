@@ -206,6 +206,8 @@
 + Delete: Event Reconnecting
 + Add: Event ShardDisconnect
 + Add: Event ShardReconnecting
++ Add: Warn (was disabled due to bugs)
++ Add: Mute (Prototype WIP)
 
 # Known bug: 
 + ~~Player break when adding playlist or song.~~

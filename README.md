@@ -12,12 +12,13 @@ Please, Login on [Yukiko's dashboard](https://yukiko.app/) and click on Server t
 Keep in mind Yukiko and her website is still in early developement.
 
 # Yukiko Update 2.1.3
-A trello has been created for this update.  
+A [Trello](https://trello.com/b/QZjVc68E) has been created for this update.  
 You can follow how it goes there. 
 v2.1.3 is a major update due to the update to Discord.js V13  
 Once all the main function of Yukiko working and ready this version will be push for early beta to [Yukiko Canary](https://Yukiko.app/release).  
 Please keep in mind that Discord.js is NOT production ready, and so it Yukiko Canary. Vital function may break, and take time to bring back.  
   
+Trello Link: [trello.com](https://trello.com/b/QZjVc68E)  
 Yukiko Version: ❌ 2.1.0  
 Yukiko Canary: ❌ 2.1.2
   

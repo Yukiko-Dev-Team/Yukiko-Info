@@ -188,7 +188,7 @@
 + Fix: Yukiko's update timing (Rate Limite)
 
 
-# Version 2.1.1 ([Canary](https://yukiko.app/release))
+# Version 2.1.1 
 + Add Shard ID to ping command.
 + Add messageReactionAdd event support (Internal)
 + Add Role Reaction (Early tests, Prototype)
@@ -198,7 +198,7 @@
 + Update Help command: Bold Yukiko Dev Team Link, Remove Support server link.
 + Removed Slash commands
 
-# Version 2.1.2 (In Dev)
+# Version 2.1.2 ([Canary](https://yukiko.app/release))
 + Update: Event Handler
 + Update: YukikoClient
 + Update: Error Handling

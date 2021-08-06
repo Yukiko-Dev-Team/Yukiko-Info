@@ -16,7 +16,13 @@ A [Trello](https://trello.com/b/QZjVc68E) has been created for this update.
 You can follow how it goes there. 
 v2.1.3 is a major update due to the update to Discord.js V13  
 Once all the main function of Yukiko working and ready this version will be push for early beta to [Yukiko Canary](https://Yukiko.app/release).  
-Please keep in mind that Discord.js is NOT production ready, and so it Yukiko Canary. Vital function may break, and take time to bring back.  
+Please keep in mind that Discord.js is NOT production ready, and so it Yukiko Canary. Vital function may break, and take time to bring back. 
+
+### ** DISCORD.JS 13 HAS BEEN RELEASED. **  
+We are working on the new update, Yukiko Canary should be updated next week (probabaly monday).  
+All the breaking changes has been fixed, we are still working on bugs.
+![](https://cdn.asthriona.com/i/2021/08/DiscordDevelopment_06082021-094823PM)
+
   
 Trello Link: [trello.com](https://trello.com/b/QZjVc68E)  
 Yukiko Version: ❌ 2.1.0  

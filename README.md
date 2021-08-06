@@ -29,7 +29,7 @@ Yukiko Version: ❌ 2.1.0
 Yukiko Canary: ❌ 2.1.2
   
 ## Help us:
-If you want to support our, feel free to make a donation via Ko-fi.  
+If you want to support our work, please feel free to make a donation via [Ko-fi](https://ko-fi.com/asthriona).  
 Any donation is for Yukiko Directly. (for the server bills, and domains).  
 
 ## Help us with code: 

@@ -207,7 +207,22 @@
 + Add: Event ShardDisconnect
 + Add: Event ShardReconnecting
 + Add: Warn (was disabled due to bugs)
-+ Add: Mute (Prototype WIP)
++ Add: Mute (Prototype WIP)  
+
+# Version 2.1.3
++ Update [Discord.JS](https://discord.js.org/#/) to V13
++ Update Level System
++ Update Rank command
++ Update Music Player
++ Add Slash commands support
++ Add Prototype Birthday command
++ Add Prototype Self role command
++ Add level management commands
++ Add general Leaderboard
++ Add Per guild Leaderboard
++ Remove Prototype commands from Help
++ Fix Music player create new player on commands that dont require it.
++ [More in developement]
 
 # Known bug: 
 + ~~Player break when adding playlist or song.~~

@@ -170,7 +170,7 @@
 + Add /rank command (No card)
 + Add /ping command
 
-# Version 2.1.0 ([Production](https://yukiko.app/release))
+# Version 2.1.0 
 + Add Playlist Shuffle
 + Add Default Rank
 + Update Channel selection (Now search for logs/HOF/Welcome channel via ID)
@@ -198,7 +198,7 @@
 + Update Help command: Bold Yukiko Dev Team Link, Remove Support server link.
 + Removed Slash commands
 
-# Version 2.1.2 ([Canary](https://yukiko.app/release))
+# Version 2.1.2 ([Production](https://yukiko.app/release)) ([Canary](https://yukiko.app/release))
 + Update: Event Handler
 + Update: YukikoClient
 + Update: Error Handling

@@ -21,7 +21,7 @@ Please keep in mind that Discord.js is NOT production ready, and so it Yukiko Ca
 ### ** DISCORD.JS 13 HAS BEEN RELEASED. **  
 We are working on the new update, Yukiko Canary should be updated next week (probabaly monday).  
 All the breaking changes has been fixed, we are still working on bugs.
-![](https://cdn.asthriona.com/i/2021/08/DiscordDevelopment_06082021-094823PM)
+![](https://cdn.asthriona.com/i/2021/08/DiscordDevelopment_06082021-094823PM)  
 Yukiko production is now at the same version as Canary.
 
   

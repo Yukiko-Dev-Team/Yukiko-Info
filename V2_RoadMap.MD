@@ -24,8 +24,8 @@ Remember: Yukiko is not our main priority, The Yukiko Dev Team is working on Yuk
 - [ ] Add mute command (removed after 1.9 due to bugs)
 
 ## Bot Fixes
-- [x] Fix `a!queue` commands (for very long playlist) (Canary)
-- [x] Fix Player break when adding songs or playlist (Canary)
+- [x] Fix `a!queue` commands (for very long playlist)
+- [x] Fix Player break when adding songs or playlist
 
 ## Website Addition
 

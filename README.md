@@ -26,8 +26,8 @@ Yukiko production is now at the same version as Canary.
 
   
 Trello Link: [trello.com](https://trello.com/b/QZjVc68E)  
-Yukiko Version: ❌ 2.1.2  
-Yukiko Canary: ❌ 2.1.2
+Yukiko Production: ❌ 2.1.2  
+Yukiko Canary: ✔ 2.1.3
   
 ## Help us:
 If you want to support our work, please feel free to make a donation via [Ko-fi](https://ko-fi.com/asthriona).  

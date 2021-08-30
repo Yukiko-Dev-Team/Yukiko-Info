@@ -222,6 +222,10 @@
 + Add Per guild Leaderboard
 + Remove Prototype commands from Help
 + Fix Music player create new player on commands that dont require it.
+
+# Version 2.1.31
++ Add Economy support
++ Add Economy commands
 + [More in developement]
 
 # Known bug: 

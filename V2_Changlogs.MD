@@ -198,7 +198,7 @@
 + Update Help command: Bold Yukiko Dev Team Link, Remove Support server link.
 + Removed Slash commands
 
-# Version 2.1.2 ([Production](https://yukiko.app/release)) ([Canary](https://yukiko.app/release))
+# Version 2.1.2 ([Production](https://yukiko.app/release))
 + Update: Event Handler
 + Update: YukikoClient
 + Update: Error Handling
@@ -228,8 +228,8 @@
 + Add Economy commands
 + Add 4 Client Patch (Internal bug fix)
 
-# Version 2.1.32
-info: `Hug`, `Pat` and `Wink` commands (text-based) will be removed in the next version replaced with `/actions`.
+# Version 2.1.32 ([Canary](https://yukiko.app/release))
+info: `Hug`, `Pat` and `Wink` commands (text-based) will be removed in the next version replaced with `/actions`.  
       `Cat`, `Dog` and `Fox` commands (text-base) will be replaced in the next version by the Slash command `/animals`
 + Add Server side Caching
 + Add Pay Command (Slash, Economy)

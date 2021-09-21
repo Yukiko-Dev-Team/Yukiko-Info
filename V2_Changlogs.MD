@@ -226,7 +226,21 @@
 # Version 2.1.31
 + Add Economy support
 + Add Economy commands
-+ [More in developement]
++ Add 4 Client Patch (Internal bug fix)
+
+# Version 2.1.32
++ Add Server side Caching
++ Add Pay Command (Slash, Economy)
++ Add Fish Command (Slash, Economy)
++ Add GiveCoins Command (Slash, Economy)
++ Add Balance Command (Slash, Economy)
++ Add Bot user ban support (Internal Tool)
++ Add Action Command (Text)
++ Update Hug Command (Text)
++ Update Pat Command (Text)
++ Update Wink Command (Text)
++ Update Guild Ban (Internal Tool)
++ Add Action Command (Slash)
 
 # Known bug: 
 + ~~Player break when adding playlist or song.~~

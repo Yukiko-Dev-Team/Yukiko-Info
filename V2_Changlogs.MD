@@ -238,11 +238,17 @@ info: `Hug`, `Pat` and `Wink` commands (text-based) will be removed in the next 
 + Add Balance Command (Slash, Economy)
 + Add Bot user ban support (Internal Tool)
 + Add Action Command (Text)
++ Add Action Command (Slash)
++ Add Warn check command (Text)
++ Add Warn Delete command (text, Inactive)
 + Update Hug Command (Text)
 + Update Pat Command (Text)
 + Update Wink Command (Text)
 + Update Guild Ban (Internal Tool)
-+ Add Action Command (Slash)
++ Update Warn command
++ update Daily coins (Commands)
++ Update Economy (Replacing "Coins" by "Yen")
++ re-enable warn commands
 
 # Known bug: 
 + ~~Player break when adding playlist or song.~~

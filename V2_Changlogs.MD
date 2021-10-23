@@ -251,6 +251,7 @@ info: `Hug`, `Pat` and `Wink` commands (text-based) will be removed in the next 
 + re-enable warn commands
 
 # Version 2.1.33 ([Canary](https://yukiko.app/release))
++ Extended Cache System (Read more: https://gist.github.com/Asthriona/3790749c6680ad34b28864bb11ceac38)
 + [No Known updates at this time.]
 
 # Known bug: 

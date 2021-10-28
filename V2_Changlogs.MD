@@ -231,7 +231,7 @@
 # Version 2.1.32 ([Production](https://yukiko.app/release))
 info: `Hug`, `Pat` and `Wink` commands (text-based) will be removed in the next version replaced with `/actions`.  
       `Cat`, `Dog` and `Fox` commands (text-base) will be replaced in the next version by the Slash command `/animals`
-+ Add Server side Caching
++ Add Client side Caching
 + Add Pay Command (Slash, Economy)
 + Add Fish Command (Slash, Economy)
 + Add GiveCoins Command (Slash, Economy)
@@ -251,8 +251,24 @@ info: `Hug`, `Pat` and `Wink` commands (text-based) will be removed in the next 
 + re-enable warn commands
 
 # Version 2.1.33 ([Canary](https://yukiko.app/release))
+Info: In this update, we have mainly worked on our caching system. This has been made to make the bot faster than requesting the slow database at every message. 
+We made our own local caching system (persistant so even if the bot reboot or crash the cache is still there).
+A lot of work is still to be made on this update, but at least the bot can take much more request than it used to without making a long queue of Database request.
+This update made the bot around 200% faster, Now the only slow link is the connection between both datacenter (Bot, cache, Database, and  website are hosted in differant location.)
+```
+--- makoto.yukiko.app ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 12ms
+rtt min/avg/max/mdev = 0.738/0.818/0.997/0.101 ms
+root@ZeroTwo:~#
+```
+  
 + Extended Cache System (Read more: https://sh.nishikino.xyz/YukikoDelay2.1.33)
++ Add Guild Ban Caching (No Expiration time)
++ Add User Ban Caching (No Expiration time)
++ Add Guild Setting to cache (5 mn to expire)
++ Remove Client side caching.
 + [No Known updates at this time.]
 
 # Known bug: 
-+ ~~Player break when adding playlist or song.~~
++ ~~Player break when adding playlist or song.~~ (Fixed)
++ Shard Reboot without error. (Identified: user permissions issue.)

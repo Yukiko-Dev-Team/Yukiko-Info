@@ -4,9 +4,10 @@ Remember: Yukiko is not our main priority, The Yukiko Dev Team is working on Yuk
 
 ## Bot Addition
 
+- [ ] Add Yukiko Premium (paid advenced features)
 - [ ] Add default role (selected via Website)
 - [ ] Add Role selector via reaction
-- [ ] Add Economy system / Give money to user
+- [x] Add Economy system / Give money to user
 - [x] Add Slash commands
 - [ ] Add Poll commands (With message fetch incase of reboot)
 - [ ] Add Leaderboard (leveling per server and general)

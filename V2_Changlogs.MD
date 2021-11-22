@@ -266,8 +266,8 @@ root@ZeroTwo:~#
 + Add Guild Ban Caching (No Expiration time)
 + Add User Ban Caching (No Expiration time)
 + Add Guild Setting to cache (5 mn to expire)
++ Add Better Error Handling (Client)
 + Remove Client side caching.
-+ [No Known updates at this time.]
 
 # Known bug: 
 + ~~Player break when adding playlist or song.~~ (Fixed)

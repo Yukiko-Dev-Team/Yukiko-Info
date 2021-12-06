@@ -279,6 +279,13 @@ Expect a lot of breacking changes in the near future, as we are testing and upda
 + Extended Cache System
 + Add Deprecation Warning **Message Delete** Logs
 + Add Deprecation Warning **Message Update** Logs
++ Add: Whois Command (Slash)
++ Add: Info Command (Slash)
++ Update: Database Driver
++ Update Divergence Meter command
++ Update: Ping and Shards Data commands
++ Disabled: Ahegao Commands (Temp)
+
 
 # Known bug: 
 + ~~Player break when adding playlist or song.~~ (Fixed)

@@ -282,4 +282,4 @@ Expect a lot of breacking changes in the near future, as we are testing and upda
 
 # Known bug: 
 + ~~Player break when adding playlist or song.~~ (Fixed)
-+ Shard Reboot without error. (Identified: user permissions issue.)
++ ~~Shard Reboot without error. (Identified: user permissions issue.)~~ (Fixed)

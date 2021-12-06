@@ -1,6 +1,6 @@
 # Yukiko Version 2.1
 
-# Version 2.1.0 
+## Version 2.1.0 
 + Add Playlist Shuffle
 + Add Default Rank
 + Update Channel selection (Now search for logs/HOF/Welcome channel via ID)
@@ -18,7 +18,7 @@
 + Fix: Yukiko's update timing (Rate Limite)
 
 
-# Version 2.1.1 
+## Version 2.1.1 
 + Add Shard ID to ping command.
 + Add messageReactionAdd event support (Internal)
 + Add Role Reaction (Early tests, Prototype)
@@ -28,7 +28,7 @@
 + Update Help command: Bold Yukiko Dev Team Link, Remove Support server link.
 + Removed Slash commands
 
-# Version 2.1.2 
+## Version 2.1.2 
 + Update: Event Handler
 + Update: YukikoClient
 + Update: Error Handling
@@ -53,12 +53,12 @@
 + Remove Prototype commands from Help
 + Fix Music player create new player on commands that dont require it.
 
-# Version 2.1.31
+## Version 2.1.31
 + Add Economy support
 + Add Economy commands
 + Add 4 Client Patch (Internal bug fix)
 
-# Version 2.1.32 
+## Version 2.1.32 
 info: `Hug`, `Pat` and `Wink` commands (text-based) will be removed in the next version replaced with `/actions`.  
       `Cat`, `Dog` and `Fox` commands (text-base) will be replaced in the next version by the Slash command `/animals`
 + Add Client side Caching
@@ -80,7 +80,7 @@ info: `Hug`, `Pat` and `Wink` commands (text-based) will be removed in the next 
 + Update Economy (Replacing "Coins" by "Yen")
 + re-enable warn commands
 
-# Version 2.1.33 ([Production](https://yukiko.app/release))
+## Version 2.1.33 ([Production](https://yukiko.app/release))
 Info: In this update, we have mainly worked on our caching system. This has been made to make the bot faster than requesting the slow database at every message. 
 We made our own local caching system (persistant so even if the bot reboot or crash the cache is still there).
 A lot of work is still to be made on this update, but at least the bot can take much more request than it used to without making a long queue of Database request.
@@ -99,7 +99,7 @@ root@ZeroTwo:~#
 + Add Better Error Handling (Client)
 + Remove Client side caching.
 
-# Version 2.1.34 ([Canary](https://yukiko.app/release))
+## Version 2.1.34 ([Canary](https://yukiko.app/release))
 Info: A word on the new Discord restriction.  
 Yukiko as you know it now, is about to change. as Discord decided to enforce the Slash commands System, we have to change the core functions of Yukiko as we wont be able to ready any messages. (except if @ mentioned.) Yukiko is actually reading your messages only looking for the `a!` prefix and a @mention, we do not log any of your messages.  
 But as Discord will be removing the content of all messages, we wont be able to look for the prefix (`a!`).  

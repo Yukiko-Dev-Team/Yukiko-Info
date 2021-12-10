@@ -107,10 +107,17 @@ By this fact we have to accelerate the process of converting all commands to Sla
 Expect a lot of breacking changes in the near future, as we are testing and updating the code for Slash commands.  
   
 + Extended Cache System
-+ Add Deprecation Warning **Message Delete** Logs
-+ Add Deprecation Warning **Message Update** Logs
-+ Add: Whois Command (Slash)
-+ Add: Info Command (Slash)
++ Add: Deprecation Warning **Message Delete** Logs
++ Add: Deprecation Warning **Message Update** Logs
++ Add: **Info Command set (Slash)**
++ Add: `/whois` to command to Info sub command
++ Add: `/guild` to command to Info sub command
++ Add: `/ping` to command to Info sub command
++ **Add: economy Command set (Slash)**
++ Move: `/fish` command to Economy sub command
++ Move: `/givecoins` to command to Economy sub command
++ Move: `/pay` to command to Economy sub command
++ Move: `/balance` to command to Economy sub command
 + Update: Database Driver
 + Update Divergence Meter command
 + Update: Ping and Shards Data commands

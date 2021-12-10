@@ -100,7 +100,7 @@ root@ZeroTwo:~#
 + Remove Client side caching.
 
 ## Version 2.1.34 ([Canary](https://yukiko.app/release))
-Info: A word on the new Discord restriction.  
+Info: A word on the new Discord restrictions.  
 Yukiko as you know it now, is about to change. as Discord decided to enforce the Slash commands System, we have to change the core functions of Yukiko as we wont be able to ready any messages. (except if @ mentioned.) Yukiko is actually reading your messages only looking for the `a!` prefix and a @mention, we do not log any of your messages.  
 But as Discord will be removing the content of all messages, we wont be able to look for the prefix (`a!`).  
 By this fact we have to accelerate the process of converting all commands to Slash commands.  

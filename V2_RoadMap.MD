@@ -6,23 +6,22 @@ Remember: Yukiko is not our main priority, The Yukiko Dev Team is working on Yuk
 
 - [ ] Add Yukiko Premium (paid advenced features)
 - [ ] Add default role (selected via Website)
-- [ ] Add Role selector via reaction
-- [x] Add Economy system / Give money to user
-- [x] Add Slash commands
-- [ ] Add Poll commands (With message fetch incase of reboot)
+- [ ] Add Role selector
+- [ ] Add Timeout command
+- [ ] Add Poll commands
 - [ ] Add Leaderboard (leveling per server and general)
 - [ ] Add AFK command
 - [ ] Add YouTube Notification
 - [ ] Add Twitch Notification
 - [ ] Add Playlist save (Voice services)
-- [x] Add Shuffle (Voice Services)
-- [ ] Add custom prefix
 - [ ] Add URL detector
 - [ ] Add Ninja invite detector
 - [ ] Add RAID lockdown
 - [ ] Add custom commands
 - [x] Add Shards to Ping command
-- [ ] Add mute command (removed after 1.9 due to bugs)
+- [x] Add Economy system / Give money to user
+- [x] Add Slash commands
+- [x] Add Shuffle (Voice Services)
 
 ## Bot Fixes
 - [x] Fix `a!queue` commands (for very long playlist)

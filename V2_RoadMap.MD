@@ -2,6 +2,40 @@
 This roadmap show what function we would like to add to the bot and/or are planed. Some may wont make it, if a version is added next to a function you can expect it for this version (You can know what version the bot is in via the `a!bot` commands.) if a function is maked with (**Canary**) it mean you can use it on our Canary version of Yukiko (found on the [release](https://yukiko.app/release) page of our [website](https://Yukiko.app))  
 Remember: Yukiko is not our main priority, The Yukiko Dev Team is working on Yukiko on their own time, some of those function might take a long time before being deployed in production.
 
+## Update 2.1.4 (Slash Update)
+Info: This update don't fix any bugs nor adds features. this version is a skip of 2.1.34 that aim to remove all legacy commands (message based commands) and replace them with interaction commands (slash commands)
+
+### Mandatory before update:
+- [ ] info command set
+- [x] /info bot
+- [x] /info whois
+- [x] /info guild
+- [x] /rank
+- [x] /ban
+- [x] /kick
+- [x] /timeout
+- [x] /8ball
+- [ ] /dice
+- [ ] /roll
+- [ ] /coinflip
+- [x] /avatar
+- [x] /osu
+- [ ] Music command set
+- [x] /music join
+- [x] /music play
+- [x] /music leave
+- [ ] /music repeat
+- [ ] /music shuffle
+- [ ] /music nowplaying (may be out of the command set as /np)
+- [ ] /music queue (maybe out of the command ser as /queue)
+- [ ] /clear
+- [ ] /say
+- [ ] Add ban logging via events
+- [ ] add kick logging via events
+- [ ] add timeout logging via events
+- [ ] remove message deleted logging
+- [ ] remove message edited logging
+
 ## Bot Addition
 
 - [ ] Add Yukiko Premium (paid advenced features)
@@ -22,6 +56,10 @@ Remember: Yukiko is not our main priority, The Yukiko Dev Team is working on Yuk
 - [x] Add Economy system / Give money to user
 - [x] Add Slash commands
 - [x] Add Shuffle (Voice Services)
+
+### Would be great to release at the same time:
+- [ ] Add full event log coverage
+- [ ] more to come
 
 ## Bot Fixes
 - [x] Fix `a!queue` commands (for very long playlist)

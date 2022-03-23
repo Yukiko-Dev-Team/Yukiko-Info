@@ -132,7 +132,18 @@ After this version all update will only be to add commands features, fix bug, an
 + Update: Info Command set
 + Add: `bot` to command to Info sub command
 + Add: **Music Command Set**
-+ Add: `join` to command to Info sub command
++ Add: `join` to command to Music sub command
++ Add: `leave` to command to Music sub command
++ Add: `pause` to command to Music sub command
++ Add: `stop` to command to Music sub command
++ Add: `skip` to command to Music sub command
++ Add: `nowplaying` to command to Music sub command
++ Add: `queue` to command to Music sub command
++ Add: `shuffle` to command to Music sub command
++ Add: `clear` to command to Music sub command
++ Add: `loop` to command to Music sub command
++ Add: `volume` to command to Music sub command
++ Add: `seek` to command to Music sub command
 + Add: a new options on /join that allow you to ask to Yukiko to stay in the channel after the queue is over.
 + Add: `play` to command to Info sub command
 + Add: `leave` to command to Info sub command

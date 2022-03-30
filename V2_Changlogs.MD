@@ -123,7 +123,7 @@ Expect a lot of breacking changes in the near future, as we are testing and upda
 + Update: Ping and Shards Data commands
 + Disabled: Ahegao Commands (Temp)
 
-## Version 2.2
+## Version 2.2 ([Production](https://yukiko.app/release))
 Info: This version is a skip of 2.1.34, as this one wont touch Canary. 2.2 is made to update the whole bot to Slash commands and gradually remove all legacy commands if released before 30/03/22. This version will mark the end of our massive update of Yukiko Client.  
 After this version all update will only be to add commands features, fix bug, and maintain the software until the release of our new MoonDrop client planned to be release with Project "KillJoy"  
 
@@ -158,6 +158,13 @@ After this version all update will only be to add commands features, fix bug, an
 + Add: `/avatar` to general commands
 + Add: `/osu` to general commands
 + Add: `/rank` to general commands
+
+## Version 2.2.1 ([Production](https://yukiko.app/release)) ([Canary](https://yukiko.app/release))
++ Add: Report bot stats to [top.gg](https://top.gg/bot/641626560457342987)
++ fix: `/pay`
++ fix: `/givecoins`
++ Update: Canary command `/info bot` give now the link to invite the Canary version instead of production.
++ Removed: Regions from `/info bot` to set all guild to `Dynamic`
 
 
 # Known bug: 

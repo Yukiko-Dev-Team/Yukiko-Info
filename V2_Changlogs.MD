@@ -123,8 +123,8 @@ Expect a lot of breacking changes in the near future, as we are testing and upda
 + Update: Ping and Shards Data commands
 + Disabled: Ahegao Commands (Temp)
 
-## Version 2.1.4
-Info: This version is a skip of 2.1.34, as this one wont touch Canary. 2.1.4 is made to update the whole bot to Slash commands and gradually remove all legacy commands if released before 30/03/22. This version will mark the end of our massive update of Yukiko Client.  
+## Version 2.2
+Info: This version is a skip of 2.1.34, as this one wont touch Canary. 2.2 is made to update the whole bot to Slash commands and gradually remove all legacy commands if released before 30/03/22. This version will mark the end of our massive update of Yukiko Client.  
 After this version all update will only be to add commands features, fix bug, and maintain the software until the release of our new MoonDrop client planned to be release with Project "KillJoy"  
 
 + Removed: Message Delete feature

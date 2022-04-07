@@ -159,13 +159,15 @@ After this version all update will only be to add commands features, fix bug, an
 + Add: `/osu` to general commands
 + Add: `/rank` to general commands
 
-## Version 2.2.1 ([Production](https://yukiko.app/release)) ([Canary](https://yukiko.app/release))
+## Version 2.2.1 ([Production](https://yukiko.app/release)) 
 + Add: Report bot stats to [top.gg](https://top.gg/bot/641626560457342987)
 + fix: `/pay`
 + fix: `/givecoins`
 + Update: Canary command `/info bot` give now the link to invite the Canary version instead of production.
 + Removed: Regions from `/info bot` to set all guild to `Dynamic`
 
+## Version 2.2.2 ([Canary](https://yukiko.app/release))
++ Fix: Welcome cards wont be sent anymore if the user is pending.
 
 # Known bug: 
 + ~~Player break when adding playlist or song.~~ (Fixed)

@@ -172,6 +172,9 @@ After this version all update will only be to add commands features, fix bug, an
 + Add: Guild Ban Logging
 + Add: Guild Un-ban logging
 + Add: Kick Logging
++ Add: Channel Creation logging
++ Add: Channele deletion logging
++ Add: Channel update logging
 
 # Known bug: 
 + ~~Player break when adding playlist or song.~~ (Fixed)

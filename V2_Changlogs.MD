@@ -80,7 +80,7 @@ info: `Hug`, `Pat` and `Wink` commands (text-based) will be removed in the next 
 + Update Economy (Replacing "Coins" by "Yen")
 + re-enable warn commands
 
-## Version 2.1.33 ([Production](https://yukiko.app/release))
+## Version 2.1.33
 Info: In this update, we have mainly worked on our caching system. This has been made to make the bot faster than requesting the slow database at every message. 
 We made our own local caching system (persistant so even if the bot reboot or crash the cache is still there).
 A lot of work is still to be made on this update, but at least the bot can take much more request than it used to without making a long queue of Database request.
@@ -99,7 +99,7 @@ root@ZeroTwo:~#
 + Add Better Error Handling (Client)
 + Remove Client side caching.
 
-## Version 2.1.34 ([Canary](https://yukiko.app/release))
+## Version 2.1.34
 Info: A word on the new Discord restrictions.  
 Yukiko as you know it now, is about to change. as Discord decided to enforce the Slash commands System, we have to change the core functions of Yukiko as we wont be able to ready any messages. (except if @ mentioned.) Yukiko is actually reading your messages only looking for the `a!` prefix and a @mention, we do not log any of your messages.  
 But as Discord will be removing the content of all messages, we wont be able to look for the prefix (`a!`).  
@@ -123,7 +123,7 @@ Expect a lot of breacking changes in the near future, as we are testing and upda
 + Update: Ping and Shards Data commands
 + Disabled: Ahegao Commands (Temp)
 
-## Version 2.2 ([Production](https://yukiko.app/release))
+## Version 2.2
 Info: This version is a skip of 2.1.34, as this one wont touch Canary. 2.2 is made to update the whole bot to Slash commands and gradually remove all legacy commands if released before 30/03/22. This version will mark the end of our massive update of Yukiko Client.  
 After this version all update will only be to add commands features, fix bug, and maintain the software until the release of our new MoonDrop client planned to be release with Project "KillJoy"  
 

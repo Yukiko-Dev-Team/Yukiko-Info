@@ -169,6 +169,9 @@ After this version all update will only be to add commands features, fix bug, an
 ## Version 2.2.2 ([Canary](https://yukiko.app/release))
 + Fix: Welcome cards wont be sent anymore if the user is pending.
 + Fix: fix a bug where new guild would not be initialized in our database.
++ Add: Guild Ban Logging
++ Add: Guild Un-ban logging
++ Add: Kick Logging
 
 # Known bug: 
 + ~~Player break when adding playlist or song.~~ (Fixed)

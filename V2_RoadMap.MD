@@ -27,14 +27,14 @@ Info: This update don't fix any bugs nor adds features. this version is a skip o
 - [ ] /music repeat
 - [ ] /music shuffle
 - [ ] /music nowplaying (may be out of the command set as /np)
-- [ ] /music queue (maybe out of the command ser as /queue)
+- [x] /music queue (maybe out of the command ser as /queue)
 - [ ] /clear
 - [ ] /say
-- [ ] Add ban logging via events
-- [ ] add kick logging via events
+- [x] Add ban logging via events
+- [x] add kick logging via events
 - [ ] add timeout logging via events
-- [ ] remove message deleted logging
-- [ ] remove message edited logging
+- [x] remove message deleted logging
+- [x] remove message edited logging
 
 ## Bot Addition
 

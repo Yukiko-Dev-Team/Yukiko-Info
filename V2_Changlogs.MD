@@ -177,10 +177,26 @@ After this version all update will only be to add commands features, fix bug, an
 + Add: Channel update logging
 + Add: Member add/remove role logging.
 + Add: Member Nick update/remove logging.
-## Version 2.2.2~Patch-1 ([Canary](https://yukiko.app/release)) ([Production](https://yukiko.app/release)) 
+## Version 2.2.2~Patch-1 (([Production](https://yukiko.app/release)) 
 + Fix: Crash On missing auditlog permisisons
 + Fix: Crash when trying to execute Slash commands in DM
 + Update: You can now send feedback via Yukiko's DMs. (or nice message to our dev)
+
+## Version 2.2.2~Patch-2 ([Canary](https://yukiko.app/release)) 
++ Add: Slash command `/say`
++ Add: Slash command `/feedback`
++ Add: Yukiko Client now support Modals.
++ Add: Slash command `/osu`
++ Add Slash command `/legacy`
++ Add: Legacy command `a!legacy`
++ Update: Message sent to user is banned by the Yukiko Dev Team
++ Update: Message sent to guild banned by the Yukiko Dev Team
++ Update: Improve Error Handling
++ Update: if the bot dont have the permissions to access the audit log it wont try anymore.
++ Update: Internal stuff (I know right?)
++ Fix: an error when users leveled up it couldnt resolve the channel where to send the card.
++ Remove: Auto update the Guild Count for discords.com/bot
+
 
 # Known bug: 
 + ~~Player break when adding playlist or song.~~ (Fixed)

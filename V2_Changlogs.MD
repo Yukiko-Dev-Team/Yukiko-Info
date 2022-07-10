@@ -1,5 +1,9 @@
 # Yukiko Version 2.1
 
+-------------- NAVIGATION --------------  
+Older Change logs:  
+[2.0 -> 2.0.9](https://github.com/Yukiko-Dev-Team/Yukiko-Info/blob/master/Older_Changelogs/2.0.MD) | [2.1 -> 2.1.9](https://github.com/Yukiko-Dev-Team/Yukiko-Info/blob/master/V2_Changlogs.MD)  
+  
 ## Version 2.1.0 
 + Add Playlist Shuffle
 + Add Default Rank

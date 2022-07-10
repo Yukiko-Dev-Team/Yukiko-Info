@@ -196,6 +196,13 @@ After this version all update will only be to add commands features, fix bug, an
 + Update: Internal stuff (I know right?)
 + Fix: an error when users leveled up it couldnt resolve the channel where to send the card.
 + Remove: Auto update the Guild Count for discords.com/bot
+  
+## Version 2.2.21~Patch-1 
++ Add Permissions Handling for Slash commands
++ Add Permissions for `/kick` command
++ Add Permissions for `/ban` command
++ Add Permissions for `/timeout` command
++ Add Permissions for `/ban` command (Require `MANAGE_MESSAGE`)
 
 
 # Known bug: 

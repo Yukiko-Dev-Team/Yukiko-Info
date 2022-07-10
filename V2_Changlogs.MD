@@ -207,6 +207,7 @@ After this version all update will only be to add commands features, fix bug, an
 + Add Permissions for `/ban` command (Require `BAN_MEMBERS`)
 + Add Permissions for `/timeout` command (Require `MODERATE_MEMBERS`)
 + Add Permissions for `/ban` command (Require `MANAGE_MESSAGE`)
++ Add Temporary Role Selector (Require `MANAGE_ROLES`)
 + Fix Permissions check for `/kick` are now set to `KICK_MEMBERS` instead of `BAN_MEMBERS`
 
 

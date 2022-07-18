@@ -1,5 +1,5 @@
 # DJS14 Update
-Here is some information about our update to [Discord.js v14]() update. 
+Here is some information about our update to [Discord.js v14](https://github.com/discordjs/discord.js/blob/main/packages/discord.js/CHANGELOG.md#changelog) update. 
 
 ### ToDo:  
 🔁 Fully update the core Features  

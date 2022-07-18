@@ -8,9 +8,10 @@ Here is some information about our update to [Discord.js v14](https://github.com
 ❌ Update all embeds to fit the new requirement  
 🔁 Add removed features from Discord.js to the client.  
 🔁 Update all commands  
+❌ Update Events Syntax  
 
 ❌ = Todo
 🔁 = In progress
 ✅ = Done
 
-Last update: 18/07/22 09:38 JST
+Last update: 18/07/22 09:44 JST

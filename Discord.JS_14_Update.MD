@@ -9,9 +9,24 @@ Here is some information about our update to [Discord.js v14](https://github.com
 🔁 Add removed features from Discord.js to the client.  
 🔁 Update all commands  
 ❌ Update Events Syntax  
+  
+### Commands:  
+✅ Music Commands
+🔁 Moderation Commands
+❌ Info commands
+❌ Economy commands
+✅ `/8ball`
+✅ `/action`
+✅ `/avatar`
+✅ `/legacy`
+✅ `/help`
+✅ `/osu`
+✅ `/rank`
+✅ `/reddit`
+  
 
 ❌ = Todo
 🔁 = In progress
 ✅ = Done
 
-Last update: 18/07/22 09:44 JST
+Last update: 18/07/22 10:41 JST

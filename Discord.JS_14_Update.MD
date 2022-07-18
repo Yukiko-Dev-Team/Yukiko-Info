@@ -11,18 +11,18 @@ Here is some information about our update to [Discord.js v14](https://github.com
 ❌ Update Events Syntax  
   
 ### Commands:  
-✅ Music Commands
-🔁 Moderation Commands
-❌ Info commands
-❌ Economy commands
-✅ `/8ball`
-✅ `/action`
-✅ `/avatar`
-✅ `/legacy`
-✅ `/help`
-✅ `/osu`
-✅ `/rank`
-✅ `/reddit`
+✅ Music Commands  
+🔁 Moderation Commands  
+❌ Info commands  
+❌ Economy commands  
+✅ `/8ball`  
+✅ `/action`  
+✅ `/avatar`  
+✅ `/legacy`  
+✅ `/help`  
+✅ `/osu`  
+✅ `/rank`  
+✅ `/reddit`  
   
 
 ❌ = Todo

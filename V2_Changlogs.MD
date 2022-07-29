@@ -186,7 +186,7 @@ After this version all update will only be to add commands features, fix bug, an
 + Fix: Crash when trying to execute Slash commands in DM
 + Update: You can now send feedback via Yukiko's DMs. (or nice message to our dev)
 
-## Version 2.2.2~Patch-2 ([Canary](https://yukiko.app/release)) 
+## Version 2.2.2~Patch-2 
 + Add: Slash command `/say`
 + Add: Slash command `/feedback`
 + Add: Yukiko Client now support Modals.
@@ -209,8 +209,32 @@ After this version all update will only be to add commands features, fix bug, an
 + Add Permissions for `/ban` command (Require `MANAGE_MESSAGE`)
 + Add Temporary Role Selector (Require `MANAGE_ROLES`)
 + Fix Permissions check for `/kick` are now set to `KICK_MEMBERS` instead of `BAN_MEMBERS`
-
+  
+## Version 2.2.22~Patch-1 ([Canary](https://yukiko.app/release)) 
+Pull Request: [PR #139](https://github.com/Yukiko-Dev-Team/Yukiko-2.0/pull/139)  
+Release Date: 26/07/2022 @ 3:40 PM GTM  
+  
++ Update Client Intents (The bot is not unable to read messages)
++ Update Update Yukiko Embeds
++ Update Discord.js to V14
++ Update Update Attachment handling (Cards)
++ Update embeds set colors
++ Update `/help` command
++ Update Client embeds
++ Update `/info` sub commands to fit DJS14
++ Update `logs` events
++ Update Permissions Managers
++ Update AuditLog search
++ Update the bot is now only using custom embeds instead of DJS's
++ Update Improve performances
++ Add Function to fetch the client
++ Add Modals Support (beta)
++ Add Menu Select supprt (beta)
++ Add Buttons support (beta)
++ Fix Avatar XP bar (Thanks to [Azmerhors](https://github.com/azmerhos))
++ Fix `/music nowplaying` command
 
 # Known bug: 
++ Kick logging may not work anymore. (WIP)
 + ~~Player break when adding playlist or song.~~ (Fixed)
 + ~~Shard Reboot without error. (Identified: user permissions issue.)~~ (Fixed)

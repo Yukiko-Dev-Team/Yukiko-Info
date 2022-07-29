@@ -232,8 +232,17 @@ Release Date: 26/07/2022 @ 3:40 PM GTM
 + Add Modals Support (beta)
 + Add Menu Select supprt (beta)
 + Add Buttons support (beta)
-+ Fix Avatar XP bar (Thanks to [Azmerhors](https://github.com/azmerhos))
 + Fix `/music nowplaying` command
+  
+## Version 2.2.22~Patch-2
+Pull Request: [PR #142](https://github.com/Yukiko-Dev-Team/Yukiko-2.0/pull/142)  
+Dev started: 26/07/2022 @ 06:53 GTM
+Release Date: TBD @ TBD PM GTM  
+  
++ Fix Rank Card XP bar (Thanks to [Azmerhors](https://github.com/azmerhos))
++ Fix typo in `/music nowplaying`
++ update moderation command `/timeout`
++ Update interaction type check
 
 # Known bug: 
 + Kick logging may not work anymore. (WIP)

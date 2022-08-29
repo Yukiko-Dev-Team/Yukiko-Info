@@ -12,8 +12,8 @@ Here is some information about our update to [Discord.js v14](https://github.com
   
 ### Commands:  
 ✅ Music Commands  
-🔁 Moderation Commands  
-❌ Info commands  
+✅ Moderation Commands  
+✅ Info commands  
 ❌ Economy commands  
 ✅ `/8ball`  
 ✅ `/action`  

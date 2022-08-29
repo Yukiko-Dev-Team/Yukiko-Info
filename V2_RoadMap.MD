@@ -6,7 +6,7 @@ Remember: Yukiko is not our main priority, The Yukiko Dev Team is working on Yuk
 Info: This update don't fix any bugs nor adds features. this version is a skip of 2.1.34 that aim to remove all legacy commands (message based commands) and replace them with interaction commands (slash commands)
 
 ### Mandatory before update:
-- [ ] info command set
+- [x] info command set
 - [x] /info bot
 - [x] /info whois
 - [x] /info guild
@@ -20,7 +20,7 @@ Info: This update don't fix any bugs nor adds features. this version is a skip o
 - [ ] /coinflip
 - [x] /avatar
 - [x] /osu
-- [ ] Music command set
+- [x] Music command set
 - [x] /music join
 - [x] /music play
 - [x] /music leave
@@ -40,16 +40,16 @@ Info: This update don't fix any bugs nor adds features. this version is a skip o
 
 - [ ] Add Yukiko Premium (paid advenced features)
 - [ ] Add default role (selected via Website)
-- [ ] Add Role selector
-- [ ] Add Timeout command
+- [x] Add Role selector
+- [x] Add Timeout command
 - [ ] Add Poll commands
 - [ ] Add Leaderboard (leveling per server and general)
-- [ ] Add AFK command
+- [ ] ~~Add AFK command~~ (Unable due to Discord Limitation)
 - [ ] Add YouTube Notification
 - [ ] Add Twitch Notification
 - [ ] Add Playlist save (Voice services)
-- [ ] Add URL detector
-- [ ] Add Ninja invite detector
+- [ ] ~~Add URL detector~~ (Unable due to Discord Limitation)
+- [ ] ~~Add Ninja invite detector~~ (Unable due to Discord Limitation)
 - [ ] Add RAID lockdown
 - [ ] Add custom commands
 - [x] Add Shards to Ping command

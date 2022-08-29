@@ -29,4 +29,4 @@ Here is some information about our update to [Discord.js v14](https://github.com
 🔁 = In progress
 ✅ = Done
 
-Last update: 18/07/22 10:41 JST
+Last update: 29/08/22 01:59AM JST

@@ -242,7 +242,15 @@ Release Date: TBD @ TBD PM GTM
 + Fix Rank Card XP bar (Thanks to [Azmerhors](https://github.com/azmerhos))
 + Fix typo in `/music nowplaying`
 + update moderation command `/timeout`
-+ Update interaction type check
++ Update interaction type check  
++ Update Rank cards to display the correct progress bar
++ Migrate `a!clear` legacy command to `/clear`
+
+## Version 2.2.22~Patch-3  
++ Add self roles
++ Add self roles lists (you can now have multiple roles selector (premium only.))
++ Add Full button support
++ Add Full select menu support
 
 # Known bug: 
 + Kick logging may not work anymore. (WIP)

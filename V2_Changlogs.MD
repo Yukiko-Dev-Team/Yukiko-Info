@@ -211,7 +211,7 @@ After this version all update will only be to add commands features, fix bug, an
 + Add Temporary Role Selector (Require `MANAGE_ROLES`)
 + Fix Permissions check for `/kick` are now set to `KICK_MEMBERS` instead of `BAN_MEMBERS`
   
-## Version 2.2.22~Patch-1 ([Canary](https://yukiko.app/release)) 
+## Version 2.2.22~Patch-1  
 Pull Request: [PR #139](https://github.com/Yukiko-Dev-Team/Yukiko-2.0/pull/139)  
 Release Date: 26/07/2022 @ 3:40 PM GTM  
   
@@ -234,7 +234,7 @@ Release Date: 26/07/2022 @ 3:40 PM GTM
 + Add Buttons support (beta)
 + Fix `/music nowplaying` command
   
-## Version 2.2.22~Patch-2
+## Version 2.2.22~Patch-2 ([Canary](https://yukiko.app/release))  
 Pull Request: [PR #142](https://github.com/Yukiko-Dev-Team/Yukiko-2.0/pull/142)  
 Dev started: 26/07/2022 @ 06:53 GTM
 Release Date: TBD @ TBD PM GTM  

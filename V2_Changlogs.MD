@@ -250,7 +250,16 @@ Release Date: TBD @ TBD PM GTM
 + Add self roles
 + Add self roles lists (you can now have multiple roles selector (premium only.))
 + Add Full button support
-+ Add Full select menu support
++ Add Full select menu support  
+  
+## Version 2.2.23
+This version will be dedicated to make the music bot better, and fully upgrade it.
++ Rename `/music loop` to `/music repeat`
++ Updated Players
++ Add `/play`
++ Add `/pause`
++ Add `/resume`
++ Add `/seek` (time must be expressed in seconds)
 
 # Known bug: 
 + Kick logging may not work anymore. (WIP)

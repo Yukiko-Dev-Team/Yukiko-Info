@@ -4,6 +4,14 @@
 Older Change logs:  
 [2.0 -> 2.0.9](https://github.com/Yukiko-Dev-Team/Yukiko-Info/blob/master/Older_Changelogs/2.0.MD) | [2.1 -> 2.2.9](https://github.com/Yukiko-Dev-Team/Yukiko-Info/blob/master/V2_Changlogs.MD)  
   
+Version 2.1:  
+[Version 2.1.0](#version-210) [Version 2.1.1](#version-211) [Version 2.1.2](#version-212) [Version 2.1.3](#version-213) [Version 2.1.31](#version-2131) [Version 2.1.32](#version-2132) [Version 2.1.33](#version-2134) [Version 2.1.32](#version-2134) [Version 2.1.32](#version-2132)  
+  
+Version 2.2:  
+[Version 2.2](#version-22) [Version 2.2.1](#version-221) [Version 2.2.2](#version-222) [Version 2.2.2~Patch-1](#version-2222patch-1) [Version 2.2.2~Patch-2](#version-2222patch-2) [Version 2.2.2~Patch-3](#version-2222patch-3) [Version 2.2.23](#version-2223)  
+  
+[Latest Version](#latest)  
+  
 ## Version 2.1.0 
 + Add Playlist Shuffle
 + Add Default Rank
@@ -202,7 +210,7 @@ After this version all update will only be to add commands features, fix bug, an
 + Fix: an error when users leveled up it couldnt resolve the channel where to send the card.
 + Remove: Auto update the Guild Count for discords.com/bot
   
-## Version 2.2.21~Patch-1 ([Production](https://yukiko.app/release))
+## Version 2.2.21~Patch-1 
 + Add Permissions Handling for Slash commands
 + Add Permissions for `/kick` command (Require `KICK_MEMBERS`)
 + Add Permissions for `/ban` command (Require `BAN_MEMBERS`)
@@ -234,7 +242,7 @@ Release Date: 26/07/2022 @ 3:40 PM GTM
 + Add Buttons support (beta)
 + Fix `/music nowplaying` command
   
-## Version 2.2.22~Patch-2 ([Canary](https://yukiko.app/release))  
+## Version 2.2.22~Patch-2 
 Pull Request: [PR #142](https://github.com/Yukiko-Dev-Team/Yukiko-2.0/pull/142)  
 Dev started: 26/07/2022 @ 06:53 GTM
 Release Date: TBD @ TBD PM GTM  
@@ -251,15 +259,31 @@ Release Date: TBD @ TBD PM GTM
 + Add self roles lists (you can now have multiple roles selector (premium only.))
 + Add Full button support
 + Add Full select menu support  
++ Fix Wrong description on ban command
++ Fix Wrong description on Kick command
++ Add Owner commands (Bot Owner)
++ Removed Beta Emoji from `/help`
++ Fix A bug in `/info bot` making the bot looking for member count per shard instead off bot wide.
++ Fix A bug with the Rank card that was crashing the shard on exec. 
   
-## Version 2.2.23
+## Version 2.2.23 ([Production](https://yukiko.app/release)) ([Canary](https://yukiko.app/release))  
 This version will be dedicated to make the music bot better, and fully upgrade it.
 + Rename `/music loop` to `/music repeat`
 + Updated Players
-+ Add `/play`
-+ Add `/pause`
-+ Add `/resume`
-+ Add `/seek` (time must be expressed in seconds)
++ Add `/music play`
++ Add `/music pause`
++ Add `/music resume`
++ Add `/music seek` (time must be expressed in seconds)
++ Add `/music restart`
++ Remove YouTube Support
++ Remove Legacy commands support
++ Fix a bug related to the welcome cards
++ Fix A bug with the rank cards returning 404, and crashed the shard.
++ Update `/help` with new commands
++ Update tags on `/help` command
++ 
+
+<span id="latest"></span>
 
 # Known bug: 
 + Kick logging may not work anymore. (WIP)

@@ -269,6 +269,8 @@ Release Date: TBD @ TBD PM GTM
 ## Version 2.2.23 ([Production](https://yukiko.app/release)) ([Canary](https://yukiko.app/release))  
 This version will be dedicated to make the music bot better, and fully upgrade it.
 + Rename `/music loop` to `/music repeat`
++ Update `/help` with new commands
++ Update tags on `/help` command
 + Updated Players
 + Add `/music play`
 + Add `/music pause`
@@ -279,8 +281,6 @@ This version will be dedicated to make the music bot better, and fully upgrade i
 + Remove Legacy commands support
 + Fix a bug related to the welcome cards
 + Fix A bug with the rank cards returning 404, and crashed the shard.
-+ Update `/help` with new commands
-+ Update tags on `/help` command
 + 
 
 <span id="latest"></span>

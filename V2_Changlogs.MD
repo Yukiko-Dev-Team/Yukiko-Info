@@ -5,10 +5,10 @@ Older Change logs:
 [2.0 -> 2.0.9](https://github.com/Yukiko-Dev-Team/Yukiko-Info/blob/master/Older_Changelogs/2.0.MD) | [2.1 -> 2.2.9](https://github.com/Yukiko-Dev-Team/Yukiko-Info/blob/master/V2_Changlogs.MD)  
   
 Version 2.1:  
-[Version 2.1.0](#version-210) [Version 2.1.1](#version-211) [Version 2.1.2](#version-212) [Version 2.1.3](#version-213) [Version 2.1.31](#version-2131) [Version 2.1.32](#version-2132) [Version 2.1.33](#version-2134) [Version 2.1.32](#version-2134) [Version 2.1.32](#version-2132)  
+[Version 2.1.0](#version-210) | [Version 2.1.1](#version-211) | [Version 2.1.2](#version-212) | [Version 2.1.3](#version-213) | [Version 2.1.31](#version-2131) | [Version 2.1.32](#version-2132) | [Version 2.1.33](#version-2134) | [Version 2.1.32](#version-2134) | [Version 2.1.32](#version-2132)  
   
 Version 2.2:  
-[Version 2.2](#version-22) [Version 2.2.1](#version-221) [Version 2.2.2](#version-222) [Version 2.2.2~Patch-1](#version-2222patch-1) [Version 2.2.2~Patch-2](#version-2222patch-2) [Version 2.2.2~Patch-3](#version-2222patch-3) [Version 2.2.23](#version-2223)  
+[Version 2.2](#version-22) | [Version 2.2.1](#version-221) | [Version 2.2.2](#version-222) | [Version 2.2.2~Patch-1](#version-2222patch-1) | [Version 2.2.2~Patch-2](#version-2222patch-2) | [Version 2.2.2~Patch-3](#version-2222patch-3) | [Version 2.2.23](#version-2223)  
   
 [Latest Version](#latest)  
   

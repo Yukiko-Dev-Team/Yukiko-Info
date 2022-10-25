@@ -266,7 +266,7 @@ Release Date: TBD @ TBD PM GTM
 + Fix A bug in `/info bot` making the bot looking for member count per shard instead off bot wide.
 + Fix A bug with the Rank card that was crashing the shard on exec. 
   
-## Version 2.2.23 ([Production](https://yukiko.app/release)) ([Canary](https://yukiko.app/release))  
+## Version 2.2.23 ([Production](https://yukiko.app/release))  
 This version will be dedicated to make the music bot better, and fully upgrade it.
 + Rename `/music loop` to `/music repeat`
 + Update `/help` with new commands
@@ -277,12 +277,19 @@ This version will be dedicated to make the music bot better, and fully upgrade i
 + Add `/music resume`
 + Add `/music seek` (time must be expressed in seconds)
 + Add `/music restart`
++ Add `/gamble` Commands set
++ Add `/gamble coinflip`
++ Add `/gamble dice`
 + Remove YouTube Support
 + Remove Legacy commands support
 + Fix a bug related to the welcome cards
 + Fix A bug with the rank cards returning 404, and crashed the shard.
 + 
 
+## Version 2.2.24 ([Canary](https://yukiko.app/release))
++ Add `/gamble` Commands set
++ Add `/gamble coinflip`
++ Add `/gamble dice`
 <span id="latest"></span>
 
 # Known bug: 

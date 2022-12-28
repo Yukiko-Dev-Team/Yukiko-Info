@@ -277,9 +277,6 @@ This version will be dedicated to make the music bot better, and fully upgrade i
 + Add `/music resume`
 + Add `/music seek` (time must be expressed in seconds)
 + Add `/music restart`
-+ Add `/gamble` Commands set
-+ Add `/gamble coinflip`
-+ Add `/gamble dice`
 + Remove YouTube Support
 + Remove Legacy commands support
 + Fix a bug related to the welcome cards
@@ -289,7 +286,19 @@ This version will be dedicated to make the music bot better, and fully upgrade i
 ## Version 2.2.24 ([Canary](https://yukiko.app/release))
 + Add `/gamble` Commands set
 + Add `/gamble coinflip`
-+ Add `/gamble dice`
++ Add `/gamble dice`  
++ Add Dev Commands (Internal tools for live debug).
++ Add Support server invite in /help
++ Add /role command set (Auto role using Discord's buttons.)
++ Add Streak to /daily command.
++ Add `/leaderboard` command.
++ Fix a bug with the member logging events.
++ Fix a bug with custom rank cards
++ Fix a bug where the custom cards could not load the user avatar.
++ Fix a big where having 2 times the same role in the auto role system would create an error.
++ Fix a bug with `/timeout` related functions.
++ Update Internal debug tools.
++ Remove TOP.gg API integration.
 <span id="latest"></span>
 
 # Known bug: 

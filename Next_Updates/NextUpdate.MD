@@ -7,6 +7,10 @@ This system being very unreliable, and shown weakness since launch, we are using
 This Event is fired up everytime a change is made that is written in the audit logs. (List of event below.)  
 Not all events will be processed by Yukiko. Only a select few (which endup being the vast majority of them).  
 All line ending with `[!!]` is not planned to be processed by the bot.  
+  
+Info: All messages related event won't be Logged, as we can't log the message itself.  
+We are also choosing not to, for Users Privacy reasons.  
+  
 **This Feature will also remove the old logging system**
 
 ### List of categories of events: 

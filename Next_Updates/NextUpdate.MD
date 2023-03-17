@@ -29,17 +29,17 @@ All line ending with `[!!]` is not planned to be processed by the bot.
 ### Raw list of events sent by Discord ([!!] = not planned to be added to Yukiko.)
 
 - [ ] 1: Guild Update
-- [ ] 10: Channel Create
-- [ ] 11: Channel Update
-- [ ] 12: Channel Delete
-- [ ] 13: Channel Overwrite Create
-- [ ] 14: Channel Overwrite Update
-- [ ] 15: Channel Overwrite Delete
-- [ ] 20: Member Kick
-- [ ] 21: Member Prune
-- [ ] 22: Member Ban Add
-- [ ] 23: Member Ban Remove
-- [ ] 24: Member Update
+- [x] 10: Channel Create
+- [x] 11: Channel Update
+- [x] 12: Channel Delete
+- [x] 13: Channel Overwrite Create [!!]
+- [x] 14: Channel Overwrite Update [!!]
+- [x] 15: Channel Overwrite Delete [!!]
+- [x] 20: Member Kick
+- [x] 21: Member Prune [!!]
+- [x] 22: Member Ban Add
+- [x] 23: Member Ban Remove
+- [x] 24: Member Update
 - [ ] 25: Member Role Update
 - [ ] 26: Member Move
 - [ ] 27: Member Disconnect

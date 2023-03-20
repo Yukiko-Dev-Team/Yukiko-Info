@@ -13,6 +13,11 @@ We are also choosing not to, for Users Privacy reasons.
   
 **This Feature will also remove the old logging system**
 
+### Status: 
+Status: Indev
+Branch: `None`.
+Release estimate: `Unknown`
+
 ### List of categories of events: 
  + Guild: 1
  + Channels: 10-15
@@ -87,8 +92,13 @@ We are also choosing not to, for Users Privacy reasons.
 - [ ] 144: Auto Moderation Flag To Channel [!!]
 - [ ] 145: Auto Moderation User Communication Disabled [!!]
 
-# Yukiko OCR System
+## Yukiko OCR System
 ![Google Tesseract Logo](https://upload.wikimedia.org/wikipedia/commons/7/78/Tesseract_OCR_logo_%28Google%29.png)  
+  
+### Status: 
+Status: Early Stage
+Branch: `None`.
+Release estimate: `Unknown`
   
 We are currently working on adding a OCR feature to Yukiko.  
 This feature will allow you to scan a image, and get the text from it.

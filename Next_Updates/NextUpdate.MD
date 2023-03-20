@@ -86,3 +86,14 @@ We are also choosing not to, for Users Privacy reasons.
 - [ ] 143: Auto Moderation Block Message [!!]
 - [ ] 144: Auto Moderation Flag To Channel [!!]
 - [ ] 145: Auto Moderation User Communication Disabled [!!]
+
+# Yukiko OCR System
+![Google Tesseract Logo](https://upload.wikimedia.org/wikipedia/commons/7/78/Tesseract_OCR_logo_%28Google%29.png)  
+  
+We are currently working on adding a OCR feature to Yukiko.  
+This feature will allow you to scan a image, and get the text from it.
+To use it You would have to send an image and right click on it, then hover "apps" and then click on "Yukiko OCR"
+We are still working on what technology we will use, and strongly considering an in house solution, but we are also looking into Google Tesseract OCR.  
+Our end goal would be to have a in house solution, for now the plan would be to start with Google until we have a working solution.  
+Yukiko's OCR would be available for general public too, using Stellar's API.  
+This project is still in early stages, and no ETA or confirmation that will happen is available at this time.

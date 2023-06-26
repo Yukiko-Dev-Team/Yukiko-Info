@@ -15,7 +15,7 @@ We are also choosing not to, for Users Privacy reasons.
 
 ### Status: 
 Status: Indev  
-Branch: `None`.  
+Branch: `Canary`.  
 Release estimate: `Unknown`  
 
 ### List of categories of events: 
@@ -33,11 +33,11 @@ Release estimate: `Unknown`
  + Guild Scheduled Events: 100-102
  + Threads: 110-112
  + Application Commands: 121
- + Auto Moderation: 140-145
+ + Auto-Moderation: 140-145
 
 ### Raw list of events sent by Discord ([!!] = not planned to be added to Yukiko.)
 
-- [ ] 1: Guild Update
+- [x] 1: Guild Update
 - [x] 10: Channel Create
 - [x] 11: Channel Update
 - [x] 12: Channel Delete
@@ -49,7 +49,7 @@ Release estimate: `Unknown`
 - [x] 22: Member Ban Add
 - [x] 23: Member Ban Remove
 - [x] 24: Member Update
-- [ ] 25: Member Role Update
+- [x] 25: Member Role Update
 - [ ] 26: Member Move
 - [ ] 27: Member Disconnect
 - [ ] 28: Bot Add

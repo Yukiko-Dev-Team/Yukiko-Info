@@ -92,6 +92,10 @@ Release estimate: `Unknown`
 - [ ] 144: Auto Moderation Flag To Channel [!!]
 - [ ] 145: Auto Moderation User Communication Disabled [!!]
 
+### Developper Notes: 
+Invites logging are not working, so won't be added yet.
+Voice channels logging still suffers some issues, some logs won't be added just yet.
+
 ## Yukiko OCR System
 ![Google Tesseract Logo](https://upload.wikimedia.org/wikipedia/commons/7/78/Tesseract_OCR_logo_%28Google%29.png)  
   
